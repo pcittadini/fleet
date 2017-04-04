@@ -1,6 +1,7 @@
-## <img src="Documentation/achtung.png" alt="WARNING" width="30" height="30"><img src="Documentation/achtung.png" alt="WARNING" width="30" height="30"><img src="Documentation/achtung.png" alt="WARNING" width="30" height="30"> Deprecation warning <img src="Documentation/achtung.png" alt="WARNING" width="30" height="30"><img src="Documentation/achtung.png" alt="WARNING" width="30" height="30"><img src="Documentation/achtung.png" alt="WARNING" width="30" height="30"><a name="deprecation-warning"></a>
-fleet is no longer developed or maintained by CoreOS. CoreOS instead recommends Kubernetes for all clustering needs.
-The project exists here for historical reference. If you are interested in the future of the project and taking over stewardship, please contact fleet@coreos.com
+# fork from coreos/fleet
+
+TODO:
+
 
 # fleet - a distributed init system
 
